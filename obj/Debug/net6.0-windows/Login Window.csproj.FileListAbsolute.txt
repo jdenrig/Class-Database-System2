@@ -1,0 +1,64 @@
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.csproj.AssemblyReference.cache
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Form.AddDrop.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.AddUserForm.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.Admin.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.Change_Advisor.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.Class_Full_Warning.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.ConfirmationPage.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.Course_Edits_Window.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.courseDeletionForm.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.CourseHistory.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.denyForm.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.Faculty.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_GUI.formWin.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.New_Login_Window.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Overload_Warning.OverloadForm.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login_Window.Properties.Resources.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Warning_Form.warningForm.resources
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.csproj.GenerateResource.cache
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.AssemblyInfoInputs.cache
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.AssemblyInfo.cs
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.csproj.CoreCompileInputs.cache
+C:\Users\turtl\Source\Repos\Class-Database-System5\bin\Debug\net6.0-windows\Login Window.exe
+C:\Users\turtl\Source\Repos\Class-Database-System5\bin\Debug\net6.0-windows\Login Window.deps.json
+C:\Users\turtl\Source\Repos\Class-Database-System5\bin\Debug\net6.0-windows\Login Window.runtimeconfig.json
+C:\Users\turtl\Source\Repos\Class-Database-System5\bin\Debug\net6.0-windows\Login Window.dll
+C:\Users\turtl\Source\Repos\Class-Database-System5\bin\Debug\net6.0-windows\Login Window.pdb
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.dll
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\refint\Login Window.dll
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.pdb
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\Login Window.genruntimeconfig.cache
+C:\Users\turtl\Source\Repos\Class-Database-System5\obj\Debug\net6.0-windows\ref\Login Window.dll
+C:\Users\turtl\source\repos\Class-Database-Systemtest\bin\Debug\net6.0-windows\Login Window.exe
+C:\Users\turtl\source\repos\Class-Database-Systemtest\bin\Debug\net6.0-windows\Login Window.deps.json
+C:\Users\turtl\source\repos\Class-Database-Systemtest\bin\Debug\net6.0-windows\Login Window.runtimeconfig.json
+C:\Users\turtl\source\repos\Class-Database-Systemtest\bin\Debug\net6.0-windows\Login Window.dll
+C:\Users\turtl\source\repos\Class-Database-Systemtest\bin\Debug\net6.0-windows\Login Window.pdb
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.csproj.AssemblyReference.cache
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Form.AddDrop.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.AddUserForm.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.Admin.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.Change_Advisor.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.Class_Full_Warning.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.ConfirmationPage.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.Course_Edits_Window.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.courseDeletionForm.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.CourseHistory.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.denyForm.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.Faculty.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_GUI.formWin.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.New_Login_Window.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Overload_Warning.OverloadForm.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login_Window.Properties.Resources.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Warning_Form.warningForm.resources
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.csproj.GenerateResource.cache
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.AssemblyInfoInputs.cache
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.AssemblyInfo.cs
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.csproj.CoreCompileInputs.cache
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.dll
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\refint\Login Window.dll
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.pdb
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\Login Window.genruntimeconfig.cache
+C:\Users\turtl\source\repos\Class-Database-Systemtest\obj\Debug\net6.0-windows\ref\Login Window.dll
